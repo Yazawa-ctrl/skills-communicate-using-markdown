@@ -15,3 +15,7 @@ var myVar = "Hello, world!";
 ``` java
 public static void main(String[] args) {}
 ```
+
+- [ ] Complete **ALL** GitHub Tutorials
+- [ ] Finish course
+- [ ] Introduce myself to the world
